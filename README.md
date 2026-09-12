@@ -73,9 +73,10 @@ Therefore, the findings should be treated as exploratory and validated using lar
 
 Project Files
 
-- `Bellabeat_Case_Study.ipynb` — Complete Python analysis
-- `Bellabeat_Case_Study_Report.pdf` — Final case study report
-
+- `Bellabeat_Case_Study.ipynb` — Complete Python data cleaning, transformation, and analysis
+- `Bellabeat_Data_Analysis.xlsx` — Excel workbook containing summary tables, visualizations, key findings, and business recommendations
+- `Bellabeat_Case_Study_Report.pdf` — Professionally formatted final case study report
+  
  Author
 
 Mohamed Rifkhan
